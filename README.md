@@ -18,3 +18,8 @@ dan ini adalah hasil tampilan nya <br>
 ![Navigasi](<foto readme/3.png>) <br>
 dan ini adalah CSS nya pada tag navigasi <br>
 ![navigasi](<foto readme/css navigasi.png>) <br>
+
+3. Saya membuat tag section dengan class hero yang isi di dalam section ada h1 dan p <br>
+![Hero](<foto readme/5.png>) <br>
+dan ini CSS section hero nya <br>
+![ <CSS hero](<foto readme/css hero.png>) <br>
