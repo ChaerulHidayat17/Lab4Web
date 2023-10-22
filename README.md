@@ -8,7 +8,7 @@
 </p>
 ===========================================================================<br><br>
 
-1. Pertama saya membuat Tag Html biasa , dengan menggunakan tag '<div>' dengan class container dengan tag '<h1>' seperti gambar di bawah ini <br>
+1. Pertama saya membuat Tag Html biasa , dengan menggunakan tag div  dengan class container dengan tag h1  seperti gambar di bawah ini <br>
 ![Container](1.png) <br>
 dan ini CSS nya untuk container nya <br>
 ![CSS](<foto readme/css container.png>) <br>
