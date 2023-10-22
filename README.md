@@ -12,3 +12,9 @@
 ![Container](1.png) <br>
 dan ini CSS nya untuk container nya <br>
 ![CSS](<foto readme/css container.png>) <br>
+dan ini adalah hasil tampilan nya <br>
+![Alt text](<foto readme/2.png>)<br>
+2. Saya membuat tag nav yang yang berisi Home, Artikel, About, Kontak sesuai gambar di bawah ini <br>
+![Navigasi](<foto readme/3.png>) <br>
+dan ini adalah CSS nya pada tag navigasi <br>
+![navigasi](<foto readme/css navigasi.png>) <br>
