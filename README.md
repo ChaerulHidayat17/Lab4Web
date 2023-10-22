@@ -27,3 +27,34 @@ dan ini CSS section hero nya <br>
 ![ <CSS hero](<foto readme/css hero.png>) <br>
 dan ini adalah hasil tampilan nya <br>
 ![CSS Hero](<foto readme/6.png>)<br>
+4. Saya membuat tag  beberapa tag section  dengan class wrapper dan class main yang di dalam section ada div <br>
+![Wraper](<foto readme/7.png>)<br>
+dan ini adalah CSS nya <br>
+![CSS](<foto readme/css  widget .png>)
+Dan ini adalah hasil tampilan web nya <br>
+![Hasil](<foto readme/8.png>)<br>
+5. Saya membuat tag section dengan class sidebar di dalam ny ada tag h2, img  <br>
+![widget](<foto readme/9.png>)<br>
+dan ini lah CSS nya <br>
+![widget box](<foto readme/css widget box.png>) <br>
+dan ini adalah hasil nya <br>
+![CSS widget](<foto readme/12.png>)<br>
+6. saya membuat tag article dengan class entry <br>
+![kotak](<foto readme/9.png>) <br>
+dan ini adalah CSS nya <br>
+![sidebar](<foto readme/css widget box.png>)<br>
+![lanjutan](<foto readme/css widget lanjutan.png>)<br>
+dan ini adalah hasil tampilan Web nya <br>
+![hasil](<foto readme/10.png>)
+7. selanjut nya saya menambahkan tag footer <br>
+![footer](<foto readme/13.png>)<br>
+dan ini adalah CSS nya <br>
+![CSS footer](<foto readme/css footer.png>)<br>
+
+
+
+
+
+
+
+
