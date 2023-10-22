@@ -50,7 +50,8 @@ dan ini adalah hasil tampilan Web nya <br>
 ![footer](<foto readme/13.png>)<br>
 dan ini adalah CSS nya <br>
 ![CSS footer](<foto readme/css footer.png>)<br>
-
+dan ini tampilan footer nya <br>
+![hasil footer](<foto readme/14.png>)
 
 
 
