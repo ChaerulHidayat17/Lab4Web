@@ -52,8 +52,8 @@ dan ini adalah CSS nya <br>
 ![CSS footer](<foto readme/css footer.png>)<br>
 dan ini tampilan footer nya <br>
 ![hasil footer](<foto readme/14.png>)<br>
-===========================================================================<br><br>
-===========================================================================<br><br>
+=========================================================================<br><br>
+=========================================================================<br><br>
 Dan sekarang saya akan buat Box Element <br>
 Di sini saya buat tag header yang di dalam nya ada h1 dan di bawah nya ada tag Section <br>
 ![Box](<foto readme/box element.png>)<br>
