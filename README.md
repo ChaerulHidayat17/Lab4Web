@@ -61,6 +61,19 @@ dan ini adalah CSS nya <br>
 ![CSS box](<foto readme/css box.png>)<br>
 dan ini adalah hasil nya <br>
 ![hasil box](<foto readme/hasil box.png>)<br>
+=========================================================================<br><br>
+=========================================================================<br><br>
+Di sini saya buat layout tentang About Us, yang berisi Portfolio ,<br>
+di dalam nya ada div dengan class container , ada header, ada section dengan class hero dan ada footer <br>
+![about](<foto readme/about.png>)<br>
+dan ini adalah CSS nya <br>
+![CSS 1](<foto readme/css1.png>)<br>
+![CSS 2](<foto readme/css2.png>)<br>
+![CSS 3](<foto readme/css3.png>)<br>
+![CSS 4](<foto readme/css4.png>)<br>
+Dan ini adalah tampilan nya <br>
+![Hasil About](<foto readme/HASIL ABOUT.png>)<br>
+
 
 
 
