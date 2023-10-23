@@ -73,6 +73,25 @@ dan ini adalah CSS nya <br>
 ![CSS 4](<foto readme/css4.png>)<br>
 Dan ini adalah tampilan nya <br>
 ![Hasil About](<foto readme/HASIL ABOUT.png>)<br>
+=========================================================================<br><br>
+=========================================================================<br><br>
+Di sini saya membuat halaman Contact Us yang berisi Nama , Email, No hp, Message <br>
+di dalam nya ada tag h1 , tag div dengan class container yang di dalam nya ada tag form dan label <br>
+![contact](<foto readme/CONTACT.png>)<br>
+dan ini adalah css nya <br>
+![CSS kontak](<foto readme/CSS KONTAK.png>)<br>
+Dan ini adalah tampilan layout nya <br>
+![hasil contact](<foto readme/hasil contact.png>)<br><br>
+===========================================================================<br>
+<p align="center">
+ &#128640 <b> Terima Kasih </b>&#128640 <br>
+</p>
+===========================================================================<br><br>
+
+
+
+
+
 
 
 
